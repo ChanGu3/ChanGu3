@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ChanGu3
+Hi! 👋 I’m @ChanGu3,
 
-- I am currently a student at Washington State University and I am majoring in Software Engineering
+My name is Chandler Guthrie but you can also refer to me as Chan.
 
-- I Enjoy Developing Video Games!
-- I Have Some Personal Experience Using the Game Engines Unity and the Unreal Engine.
-- I have also worked with some of Monogame that uses Microsofts XNA Framework to create a simple custom game engine.
-- (:
+I am currently a student at Washington State University and majoring in Software Engineering. My passion for development stems from video games! ~classic
+Some experiences I have of game dev is from Using Unity and the Unreal Engine. As Well As Dabbling in Monogame (Microsofts XNA Framework)
 
+- Update Date: 7/26/2025
