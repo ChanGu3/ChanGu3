@@ -1,11 +1,11 @@
-Hi! 👋 I’m @ChanGu3,
+# Hi! 👋 I’m @ChanGu3,
 
-My real name name is Chandler Guthrie!
+- My real name name is Chandler Guthrie!
 
-Washington State University Graduate majored in Software Engineering.
+## Education
+- Washington State University Graduate majored in Software Engineering.
+- WSU Projects: [https://github.com/ChanGu3-WSU-Projects]
 
-WSU Projects: [https://github.com/ChanGu3-WSU-Projects]
+## My Passion
 
-
-
-My passion for development stems from story writing and the video games you can create with them!
+- My passion for development stems from story writing and the video games you can create with them!
